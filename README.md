@@ -1,4 +1,5 @@
-#Goal of the project
+### Goal of the project
+
 The goal of the project is to use California census data to build a model of housing prices in the state.
 The dataset includes metrics such as the population, median income, and median housing price for each block group in California.
 Block groups are the smallest geographical unit for which the US Census Bureau publishes sample data (a block group typically has a population of 600 to 3,000 people).
