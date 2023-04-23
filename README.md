@@ -7,4 +7,4 @@ Block groups can also be called "districts" for short.
 
 In the scope of this project the model should learn from this data and be able to predict the median housing price in any district, given all other metrics.
 
-
+The project is implemented in a Jupyter Notebook. Refer to file Predicting_California_Housing_Prices.ipynb in this repository.
